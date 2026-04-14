@@ -27,7 +27,7 @@ The [New WPILib Units Library for 2025](https://docs.wpilib.org/pt/latest/docs/s
 #### 4. YAGSL, Officially Supported!
 > 🙏 Thanks to @nstrike for making this possible!
 
-With help from the developers of YAGSL, we have successfully integrated maple-sim with the amazing [Yet Another Generic Swerve Drive Library (2025-beta)](https://github.com/BroncBotz3481/YAGSL-Example/pull/251).   A preview version featuring realistic swerve simulation will be available soon. 
+With help from the developers of YAGSL, we have successfully integrated maple-sim with the amazing [Yet Another Generic Swerve Drive Library (2025-beta)](https://github.com/BroncBotz3481/YAGSL-Example/pull/251).   A preview version featuring realistic swerve simulation will be available soon.
 
 Please [follow YAGSL on Github](https://github.com/BroncBotz3481) to stay updated when it's released.
 

@@ -12,8 +12,8 @@ A simulation engine is a powerful tool that provides realistic approximations of
 
 ## What is maple-sim?
 
-Before **maple-sim**, most FRC robot simulations focused solely on the robot itself—its sensors, movements, and internal operations. 
-Now, through the power of physics simulation, **maple-sim** allows your robot to engage directly with its environment. 
+Before **maple-sim**, most FRC robot simulations focused solely on the robot itself—its sensors, movements, and internal operations.
+Now, through the power of physics simulation, **maple-sim** allows your robot to engage directly with its environment.
 Imagine testing robot interactions with obstacles, field elements, and game pieces, all within the simulated world.
 A simulation that is realistic enough to **feel like a video game.**
 
